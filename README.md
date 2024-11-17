@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NazikOzturk, I'm a Front-End Developer with a passion for building beautiful, user-friendly web applications.
+- I am a person who loves learning and growing. I have strong communication skills, which makes me successful in group projects.
+- If you're interested in collaborating, or just geeking out over front-end topics, feel free to reach out or explore my repositories.
