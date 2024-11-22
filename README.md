@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nazik Öztürk</h1>
-<h3 align="center">A passionate frontend developer from Turkish Republic of Northern Cyprus</h3>
+<h3 align="center">Frontend developer from Turkish Republic of Northern Cyprus</h3>
 
-- 🌱 I’m currently learning **react to build modern, dynamic frontend applications.**
+- 🌱 I’m currently learning HTML5, CSS3, GitHub, Bootstrap ans JS.
  
-- ✨ I am a person who loves learning and growing. I have strong communication skills, which makes me successful in group projects.
+- ✨ I am passionate about learning and developing myself in software.
  
-- 🫶🏻 If you're interested in collaborating, or just geeking out over front-end topics, feel free to reach out or explore my repositories.
+- 🫶🏻 If you're interested in collaborating, feel free to reach out or explore my repositories.
 
 -  📫 How to reach me **ozturknazikk@gmail.com**
 
