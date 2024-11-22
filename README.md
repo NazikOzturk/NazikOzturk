@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nazik Öztürk</h1>
-<h3 align="center">Frontend developer from Turkish Republic of Northern Cyprus</h3>
+- Hi, I'm @NazikOzturk,
 
 - 🌱 I’m currently learning HTML5, CSS3, GitHub, Bootstrap ans JS.
  
